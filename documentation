@@ -1,0 +1,8 @@
+Creamos una carpeta de nombre node-ex-website (será nuestra carpeta raiz del proyecto)
+Luego creamos dos archivos package.json y server.json
+Luego crearemos una carpeta llamada express (en la carpeta raiz), dentro de esta crearemos un archivo llamado index.html
+Luego editaremos los archivos package y server
+Luego de crear la estructura usaremos el comando npm i o npm install para instalar las dependencias
+Luego modificaremos el archivo index.html con la información requerida.
+Luego corremos el servidor usando npm start.
+Luego lo probamos en el navegador localhost:3000
